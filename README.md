@@ -2,6 +2,9 @@
 The Decentralized Blog Blockchain Project with Code, Documents and video Tutorial
 
 
+![decentralized](https://github.com/user-attachments/assets/92f2937e-8e0b-4613-9718-9a09fb90b64c)
+
+
 ## Youtube video: https://youtu.be/ZgpVcSEUbn4?si=hy61vWqHlVIwyHXn
 
 ## Abstract: 
