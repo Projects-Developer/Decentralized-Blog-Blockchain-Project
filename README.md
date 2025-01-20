@@ -1,4 +1,4 @@
-# Decentralized-Blog-Blockchain-Project
+# Decentralized Blog Blockchain Project
 The Decentralized Blog Blockchain Project with Code, Documents and video Tutorial
 
 
