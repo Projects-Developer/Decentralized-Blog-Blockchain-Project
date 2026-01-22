@@ -20,7 +20,6 @@ Keywords: Decentralized Blogging, Blockchain Technology, Censorship Resistance, 
 
 3. Research Paper
 
-
 4. Code
 
 5. Explanation video
@@ -28,7 +27,6 @@ Keywords: Decentralized Blogging, Blockchain Technology, Censorship Resistance, 
 6. Documents
 
 7. Report
-
 
 ### Need Code, Documents & Explanation video ? 
 
